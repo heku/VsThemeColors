@@ -8,4 +8,4 @@
 4. Restart Visual Studio.
 
 ### [Blue Theme (applicable to light-based themes)](./Blue.json)
-![Blue Theme](./Blue.jpg)
+![Blue Theme](./Blue.png)
