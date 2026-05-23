@@ -2,37 +2,37 @@
   {
     "Name": "AccentFillDefault",
     "Category": "73708ded-2d56-4aad-b8eb-73b20d3f4bff",
-    "Background": "FF3B4F81"
+    "Background": "FF4B6287"
   },
   {
     "Name": "AccentFillSecondary",
     "Category": "73708ded-2d56-4aad-b8eb-73b20d3f4bff",
-    "Background": "E53B4F81"
+    "Background": "E54B6287"
   },
   {
     "Name": "AccentFillTertiary",
     "Category": "73708ded-2d56-4aad-b8eb-73b20d3f4bff",
-    "Background": "CC3B4F81"
+    "Background": "CC4B6287"
   },
   {
     "Name": "EnvironmentLogo",
     "Category": "5af241b7-5627-4d12-bfb1-2b67d11127d7",
-    "Background": "FF3B4F81"
+    "Background": "FF4B6287"
   },
   {
     "Name": "EnvironmentIndicator",
     "Category": "5af241b7-5627-4d12-bfb1-2b67d11127d7",
-    "Background": "803B4F81"
+    "Background": "804B6287"
   },
   {
     "Name": "EnvironmentBorder",
     "Category": "5af241b7-5627-4d12-bfb1-2b67d11127d7",
-    "Background": "FF3B4F81"
+    "Background": "FF4B6287"
   },
   {
     "Name": "EnvironmentBorderInactive",
     "Category": "5af241b7-5627-4d12-bfb1-2b67d11127d7",
-    "Background": "FFA4B4E4"
+    "Background": "FFACB7D8"
   },
   {
     "Name": "EnvironmentBackground",
@@ -52,7 +52,7 @@
   {
     "Name": "EnvironmentHeaderInactive",
     "Category": "5af241b7-5627-4d12-bfb1-2b67d11127d7",
-    "Background": "FFA4B4E4"
+    "Background": "FFACB7D8"
   },
   {
     "Name": "EnvironmentTab",
@@ -82,6 +82,6 @@
   {
     "Name": "StatusBarBackgroundFillRest",
     "Category": "5af241b7-5627-4d12-bfb1-2b67d11127d7",
-    "Background": "FF007ACC"
+    "Background": "FF4B6287"
   }
 ]
