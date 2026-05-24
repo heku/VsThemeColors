@@ -32,7 +32,7 @@
   {
     "Name": "EnvironmentBorderInactive",
     "Category": "5af241b7-5627-4d12-bfb1-2b67d11127d7",
-    "Background": "FFACB7D8"
+    "Background": "664B6287"
   },
   {
     "Name": "EnvironmentBackground",
@@ -52,7 +52,7 @@
   {
     "Name": "EnvironmentHeaderInactive",
     "Category": "5af241b7-5627-4d12-bfb1-2b67d11127d7",
-    "Background": "FFACB7D8"
+    "Background": "FFE0E6F6"
   },
   {
     "Name": "EnvironmentTab",
